@@ -1,76 +1,103 @@
-# COMPETITOR-INTEL.md
-*Last updated: 2026-03-04 by Nebula. Updates weekly.*
+# COMPETITOR INTEL -- Jobs Done Team
+**Last Updated: March 9, 2026**
+*Weekly refresh -- sourced from TrustRadius, Trustpilot, BBB, Capterra, G2, and review analysis sites*
 
 ---
 
-## Pricing (Current)
+## PRICING TABLE
 
-| Platform | Entry Price | Mid Tier | Top Tier | Notes |
-|----------|------------|----------|----------|-------|
-| Podium | $399/mo | $500-800/mo | Custom | Setup fees + per-user charges on top |
-| Birdeye | $299/mo | $599/mo | $1,000+/mo | Per-location pricing; scales fast |
-| Thryv | $623/mo (Kickstart) | $929/mo (Ignite) | $1,133/mo (Growth) | Most expensive; worst reviews |
-| Broadly | Custom quote only | — | — | Higher TCO than competitors per independent reviews |
-| Wix | $17/mo (Light) | $29/mo (Core) | $36/mo (Business) | No real CRM or review mgmt; just website |
-
-**Jobs Done pitch**: We start at $97/mo. Thryv's entry point is 6x ours. Podium is 4x. Use this in every sales conversation.
+| Competitor | Entry | Mid | Top | Contract | Notes |
+|---|---|---|---|---|---|
+| **Broadly** | $249/mo | Custom | Custom | Annual | Capterra 4.8/336 reviews. Opaque pricing -- must call for quote. |
+| **Podium** | $399/mo (Core) | $599/mo (Pro) | $999+/mo (Enterprise) | Annual (auto-renews) | Hidden: $500-1,000 setup, $50/mo per extra user, SMS overages $0.02-0.05/msg, AI replies $99/mo add-on |
+| **Birdeye** | $299/mo (Starter) | $349/mo (Growth) | $449/mo (Dominate) | 12-month (90-day cancel notice!) | Social features only in $449 Dominate plan. Per-location pricing. |
+| **Thryv** | $199/mo (Biz Center Plus) | $349/mo (Professional) | $499/mo (Unlimited) | Annual required | $250 mandatory onboarding fee. Marketing Center is SEPARATE (+$199-$349/mo). Real cost: $646-$1,475/mo bundled. |
+| **Wix** | ~$17/mo (Light) | ~$36/mo (Core) | ~$159/mo (Business Elite) | Monthly or Annual | Auto-renewal billing complaints. Website builder, not a CRM/review platform. |
 
 ---
 
-## What Customers Hate (1-2 Star Reviews)
-
-### Podium
-- BBB rating: 1.09/5 (33 reviews); 60 complaints in 3 years
-- Trustpilot: 3.9/5 -- heavily skewed by fake/incentivized reviews
-- **Top complaints:**
-  - Auto-renewal traps: locked into annual contracts with hidden 30-day cancellation window
-  - Relentless upsell harassment -- customers had to involve attorneys to stop calls
-  - Phone features drop every other call -- defeats the core product purpose
-  - Billing continues months after cancellation
-  - "Predatory behavior" -- direct BBB quote
-
-### Birdeye
-- BBB: 110 complaints in 3 years; 36 in last 12 months
-- Trustpilot: 3.5/5
-- **Top complaints:**
-  - Cancellation attempted for 1+ year with no success; auto-renewed anyway
-  - QuickBooks integration broken
-  - Sent duplicate review requests to same customers (embarrassing clients)
-  - Support creates tickets but never resolves them (9 contacts over 3 months, zero action)
-  - Data loss: lost templates and phone numbers mid-contract
-
-### Thryv
-- BBB: 357 complaints in 3 years; 122 in last 12 months -- worst of all competitors
-- Trustpilot: 2.5/5 -- only 38% of BBB complaints marked resolved
-- **Top complaints:**
-  - Billing failures: charges continuing 2-6 months after cancellation
-  - Duplicate charges in same billing period
-  - Early termination fees up to $10,000
-  - Marketing/SEO features don't deliver promised results
-  - Support quality collapses after onboarding period ends
-  - Data export nearly impossible when leaving
+## TOP COMPLAINTS BY COMPETITOR
 
 ### Broadly
-- Limited public reviews; operates with less transparency than competitors
-- Custom pricing with no published rates = red flag for small businesses
-- Higher total cost of ownership vs. comparable platforms
+- Pricing not transparent -- you have to talk to sales to get a number
+- Limited to US market only
+- Fewer integrations than Birdeye/Podium
+- No free trial
+- Thin feature set compared to full-suite competitors (review mgmt focus only)
+
+### Podium
+- **Auto-renews annual contracts with zero notice** -- BBB complaint Dec 2025: customer locked into another 12 months after 2+ years, auto-renewal "not clearly disclosed"
+- Aggressive sales harassment -- BBB complaint Jan 2025: relentless cold calling even after repeated do-not-call requests
+- Real cost is $500-800/mo after add-ons vs. advertised $399
+- AI features are an extra $99/mo and described as "robotic" by verified reviewers
+- Payment processing rates higher than Stripe
+- Setup takes 2-4 weeks but billing starts day one of contract signing
+- Feature-heavy and "overwhelming" for small teams
+
+### Birdeye
+- **90-day cancellation notice required** -- miss it by a week and get charged $7,000 (verified Trustpilot review)
+- Features moved behind paywalls mid-contract: "referrals functionality was initially built into our service level, then later removed and added behind another paywall" -- 2-year customer
+- Continued billing after cancellation -- customers fighting for months to stop charges
+- Support largely offshore -- time zone issues, calls are upsell sessions not help sessions
+- Integration breakdowns not proactively flagged -- Capterra review: integrations "would break for months at a time and she wouldn't be notified"
+- 106 BBB complaints in 3 years (33 in last 12 months alone)
+- One customer tried to cancel for 12+ months, auto-renewed despite 7-month advance notice
+
+### Thryv
+- **365 BBB complaints in 3 years** -- worst of any competitor (123 closed in last 12 months)
+- Trustpilot: 2.5/5 -- "Most reviewers were unhappy overall"
+- Top complaint: billing fraud -- customers billed under multiple accounts (Dex YP + Thryv simultaneously)
+- Impossible to cancel: "I have been trying to cancel our services for over a year"
+- Pricing is deliberately confusing -- Business Center + Marketing Center + Command Center sold separately
+- Real entry cost $646-$1,475/mo for bundled plans (Kickstart/Ignite/Accelerate)
+- $250 mandatory onboarding fee on every plan
+- Platform described as "worst software I've seen in 8 years" by a developer (Trustpilot Aug 2025)
 
 ### Wix
-- Not a CRM/review platform -- just a website builder
-- No lead capture automation, no review management, no missed call handling
-- Small businesses outgrow it immediately when they need actual business tools
+- Not a business management platform -- website builder competing on price only
+- Auto-renewal billing fraud complaints (unauthorized charges on old/expired accounts)
+- Zero CRM, review management, or team operations features
+- No phone support on lower plans
 
 ---
 
-## Pitch Angles From This Data
+## 5 SHARP PITCH ANGLES AGAINST EACH COMPETITOR
 
-1. **"No contracts"** -- every competitor traps customers in annual auto-renew. We don't.
-2. **"Cancel anytime"** -- Thryv charges $10K to leave. We charge $0.
-3. **"$97 vs $623"** -- Thryv's cheapest plan costs more than 6x what we charge.
-4. **"It actually works"** -- Podium's phone drops every other call. Ours doesn't.
-5. **"Real support"** -- Birdeye customers contact them 9 times and get zero response. We answer.
+### vs. Broadly
+1. **"Same price, 10x the functionality."** Broadly starts at $249/mo for reviews only. Jobs Done starts at [your price] and handles reviews, scheduling, dispatch, customer comms, and team ops -- for the same type of small service business.
+2. **"They make you call to get a price. We don't hide anything."** Broadly's pricing opacity signals a sales-first culture. Jobs Done is built for owners, not sales quotas.
+3. **"Broadly is reviews. We're your whole back office."** If a prospect is considering Broadly, they're thinking about reputation -- help them see the bigger picture: getting the job, doing the job, getting paid, getting the review.
+4. **"They're built for Oakland. We're built for your market."** Broadly is a Bay Area SaaS company. Jobs Done is built specifically for trade service businesses.
+5. **"What happens after the 5-star review?"** Broadly stops at the review. Jobs Done connects reviews to repeat business -- follow-ups, scheduling, referrals.
+
+### vs. Podium
+1. **"They advertise $399 but you'll pay $800. Every month. Forever."** Setup fees, per-user fees, SMS overages, AI add-ons -- Podium's pricing is a bait-and-switch. Jobs Done is flat and honest.
+2. **"They'll lock you in for 12 months and auto-renew without warning."** A real business got trapped for another full year after 2+ years as a customer. BBB complaint, December 2025. Jobs Done has [your contract terms].
+3. **"Their AI costs extra and customers say it sounds robotic."** Podium charges $99/mo for AI replies that verified users call low quality. Jobs Done's automation is included and built for trades conversations.
+4. **"For Podium's price, you're getting a messaging inbox. We give you a full ops platform."** Podium is fundamentally a texting tool that costs $500-800/mo all-in. Frame the ROI gap hard.
+5. **"They'll start billing you before you're even set up."** Setup takes 2-4 weeks but billing starts day one of contract signing. Use this with any prospect who values fairness.
+
+### vs. Birdeye
+1. **"90-day cancellation notice. Miss it by a week -- $7,000 gone."** Real documented case on Trustpilot. Birdeye's contract terms are predatory. Jobs Done doesn't trap customers.
+2. **"They sold you features, then moved them behind a higher paywall."** Direct quote from a 2-year customer: "referrals functionality was built into our service level, then removed and added behind another paywall." That's not a partner.
+3. **"106 BBB complaints. 33 in the last year. That's almost 3 per month."** Let the number land. Then ask: "Is that the kind of company you want managing your online reputation?"
+4. **"Their support calls are upsell sessions, not help sessions."** Birdeye customers report Zoom calls that end with a new product pitch instead of a solved problem. Jobs Done support actually fixes things.
+5. **"Birdeye is built for 10+ location franchises. You're not a franchise."** Small service businesses are paying enterprise prices for a product not designed for them.
+
+### vs. Thryv
+1. **"365 BBB complaints in 3 years. More than one per day."** Thryv has the worst complaint volume of any competitor in this space. Customers can't cancel, get double-billed, can't reach support. Let that number do the work.
+2. **"Their 'starting price' is $646/mo -- not $199."** The $199 Business Center requires a separate $199-$349 Marketing Center to do anything useful. Then add the $250 mandatory onboarding fee. Real entry: $646/mo.
+3. **"Thryv started as the Yellow Pages. They haven't fully escaped it."** Thryv evolved from DexYP (Yellow Pages). Their DNA is old-school advertising, not field service ops. For trade businesses, that heritage shows in the product.
+4. **"They've billed customers under two different accounts simultaneously."** Real Trustpilot complaint: billed under Dex YP and Thryv for the same services at the same time. Fraud or incompetence -- either way, not who you want holding your credit card.
+5. **"Complicated pricing is a feature, not a bug -- for them."** Three product centers, each with separate tiers, plus add-ons, plus onboarding fees. Designed to obscure the real cost until you're already locked in.
+
+### vs. Wix
+1. **"Wix is a website. Jobs Done is a business."** No CRM, no reviews, no dispatch, no customer comms. Wix isn't a competitor -- it's a digital brochure that small businesses outgrow fast.
+2. **"When a customer calls or texts, Wix doesn't answer."** Zero tools for customer communication, follow-up, or relationship management. If they're running their business on Wix, they've already outgrown it.
+3. **"They auto-renewed a $576 charge on an account that hadn't been active since 2023."** Real BBB/ComplaintsBoard complaint from April 2025. Use it to show Wix's billing practices are as bad as the bigger players.
+4. **"If they outgrow Wix, where do they go? You."** Plant the seed now -- educate on what a real ops platform looks like and close when they hit the wall.
+5. **"$36/mo for a website vs. [your price] for your entire operation."** Frame the choice as a digital brochure vs. a business operating system. The ROI math writes itself.
 
 ---
 
-## Next Update Due
-Week of 2026-03-11 -- check for pricing changes, new outages, PR issues.
+*Sources: TrustRadius, Trustpilot, BBB.org, Capterra, G2, autoposting.ai, replifast.com, emitrr.com, reviewflowz.com -- March 2026*
