@@ -1,60 +1,53 @@
 # Rust Belt Lead Expansion - Weekly Leads
 
-**Updated:** March 23, 2026
+**Updated:** 2026-03-30  
+**Cities:** Cleveland, Columbus, Cincinnati, Detroit, Buffalo  
+**Criteria:** No website, few reviews (<10), outdated online presence
 
-**Target Cities:** Cleveland, Columbus, Cincinnati, Detroit, Buffalo
+## Top 20 Scored Leads
 
-**Scoring Criteria:**
-- **Starter:** No website, <5 reviews, or rating <2.5 - Needs complete digital foundation
-- **Growth:** Basic web presence, 5-20 reviews, or rating 2.5-3.5 - Needs optimization & marketing
-- **DFY:** Established but outdated, 20+ reviews - Ready for done-for-you services
+| # | Business Name | City | Trade | Why They're a Fit | Estimated Tier |
+|---|---------------|------|-------|-------------------|----------------|
+| 1 | CLE Plumbing and Maintenance | Cleveland, OH | Plumbing | No website found, family-owned, relies on word-of-mouth | Starter |
+| 2 | Lake Erie Heating & Cooling | Cleveland, OH | HVAC | No website, BBB accredited but minimal digital presence | Starter |
+| 3 | All Engineered HVAC | Cleveland Heights, OH | HVAC | Very limited web presence (24 visits/month), only 5 employees | Starter |
+| 4 | HEAirCon, LLC | Cleveland, OH | HVAC | Weak LinkedIn (7 followers), minimal online visibility | Starter |
+| 5 | Plunger Plumber LLC | Cleveland, OH | Plumbing | Newer business (founded 2020), limited web presence | Starter |
+| 6 | Dennie's Heating & Cooling | Detroit, MI | HVAC | No website, no reviews listed, full HVAC services offered | Starter |
+| 7 | Danny's Domestic Refrigeration | Detroit, MI | HVAC | No website, no reviews, established address since 1980s | Starter |
+| 8 | PS Plumbing Services | Detroit, MI | Plumbing | No website, no reviews, 24/7 service advertised | Starter |
+| 9 | Superior Heating & Cooling | Buffalo, NY | HVAC | Website listed as N/A, only 3 Google reviews | Starter |
+| 10 | Signature Heating & Cooling | Buffalo, NY | HVAC | Website listed as N/A, only 1 Google review | Starter |
+| 11 | 1ST SECTION PLUMBING | Columbus, OH | Plumbing | Listed in city directory, no digital presence found | Starter |
+| 12 | 4 SEASONS AIR LLC | Centerburg, OH (Columbus area) | HVAC | Licensed contractor, minimal online presence | Starter |
+| 13 | 3 BOYS MAINTENANCE INC | Columbus, OH | General | Family business, directory listing only | Starter |
+| 14 | A BUCKEYE ROOTER SERVICE | Columbus, OH | Plumbing | Directory listing, no website found | Starter |
+| 15 | Northeast Ohio HVAC LLC | Cleveland, OH | HVAC | Minimal online presence despite having website | Growth |
+| 16 | Cfc General Contractors | Cleveland, OH | General | LinkedIn only, no website | Growth |
+| 17 | Hometown Construction | Cincinnati, OH | General | Listed in directory, weak online presence | Starter |
+| 18 | 7 Hills Construction | Cincinnati, OH | General | Directory listing, no prominent website | Starter |
+| 19 | A&R Plumbing | Cincinnati, OH | Plumbing | Directory listing, minimal digital footprint | Starter |
+| 20 | Advanced Heating & Cooling | Cincinnati, OH | HVAC | Directory listing only, weak web presence | Starter |
 
----
+## Market Insights
 
-## New Leads This Week
+**Columbus Market Data:**
+- Average Google Business Profile score: 57/100 (only 6.9% well-optimized)
+- Home service contractors average only 25 reviews per profile
+- 93% of consumers read reviews before hiring
+- 75% contact only the top 3 Google Maps results
 
-| Business Name | City | Trade | Why They're a Fit | Estimated Tier |
-|--------------|------|-------|-------------------|----------------|
-| Terry the Plumber | Cleveland, OH | Plumbing | 2.0 rating (5 reviews), complaints about no-shows & unprofessional behavior, Yahoo Local listing only | Starter |
-| LITE ELECTRIC | Cleveland, OH | Electrical | 1.5 rating (2 reviews), serious complaints about taking money without completing work, basic Angi listing | Starter |
-| Pete's Electrical Inc. | Cleveland, OH | Electrical | 3.0 rating (2 reviews), inconsistent quality, no website mentioned | Growth |
-| Heckaman Heating & Cooling | Cleveland, OH | HVAC | 0 reviews, rating score 73, homeyou listing only, no verified presence | Starter |
-| Lake Erie Heating & Cooling | Cleveland, OH | HVAC | Only 1 review on Yelp, unclaimed business, limited online footprint | Starter |
-| Temp Tech | Cleveland, OH | HVAC | 0 reviews on Yelp, minimal presence, serving Cleveland area only | Starter |
-| CG Electric LLC | Cleveland, OH | Electrical | Small operation, basic Essential Cleveland listing, limited digital presence | Growth |
-| Johns Home Repair | Cincinnati, OH | General/HVAC | 1.0 rating (1 review), major complaints about incomplete work, 20 years but poor reputation | Starter |
-| Handyman Service | Cincinnati, OH | Handyman | 2.0 rating (2 reviews), terrible workmanship complaints, overcharging | Starter |
-| Handyman Express | Cincinnati, OH | Handyman/Remodeling | Only 1 review despite 30 years in business, minimal online presence | Growth |
-| Top to Bottom Handyman | Cincinnati, OH | Handyman | 4.6 rating but recent quality complaints, speed over greed issues | Growth |
-| K&K Lawn Care Service | Detroit, MI | Lawn Care | Nextdoor only, mixed reviews, no-show complaints, Detroit-based | Starter |
-| Cut Like That Landscaping | Detroit, MI | Landscaping | Facebook/Nextdoor only, no dedicated website, basic social presence | Starter |
-| Kevin's All Season Lawncare | Detroit, MI | Lawn Care | Nextdoor listing only, 1 review, limited digital footprint | Starter |
-| Electro-Tech LLC | Detroit, MI | Electrical | Basic website with outdated design, Gmail contact, 30 years but weak web presence | Growth |
-| Affordable Lawn Care & Landscaping | Columbus, OH | Lawn Care | Only 1 review on HireRush, 10+ years in business but minimal presence | Starter |
-| Bath Tune-Up of Columbus | Columbus, OH | Bathroom Remodel | Only 2 reviews despite 6 years, franchise opportunity | Growth |
-| Thompsons Absolute Construction | Columbus, OH | General Contracting | 4.7 rating but only 14 reviews for 13 years in business, underrepresented online | Growth |
-| Mix Design Collective | Columbus, OH | General Contracting | 4.9 rating, only 8 reviews despite HGTV features, under-leveraged presence | Growth |
-| Nextwave Construction | Columbus, OH | HVAC/Remodeling | 5.0 rating but only 5 reviews, 30 employees but minimal online footprint | Growth |
+**Lead Quality Notes:**
+- **Starter Tier:** No website, <5 reviews, family-owned or 1-5 employees
+- **Growth Tier:** Basic website but low traffic (<100 visits/month), outdated content, <20 reviews
+- **DFY Tier:** Would require full digital transformation (not represented in this batch)
 
----
+## Next Actions
 
-## Outreach Priority
-
-**High Priority (Starter Tier - 10 leads):**
-These businesses have critical digital gaps - no website, terrible ratings, or almost no reviews. They need complete digital foundations.
-
-**Medium Priority (Growth Tier - 10 leads):**
-These have some presence but are underperforming relative to their experience level. They need optimization and marketing support.
-
----
-
-## Notes
-
-- Searches covered Angi, Yelp, Yellow Pages, Yahoo Local, Nextdoor, Thumbtack, and HireRush
-- Focus on businesses with weak digital presence despite being in business for years
-- Many are owner-operated with limited staff - ideal for Jobs Done services
-- Rust Belt market shows many established contractors with outdated or minimal online presence
+1. Prioritize outreach to Detroit HVAC leads (no reviews = untapped)
+2. Columbus leads from city directory = verified licensed contractors
+3. Buffalo HVAC companies show "Website: N/A" = immediate opportunity
+4. Consider skip-list: Eddie Jones Plumbing (1.0 rating), RABY BUILDERS (2.3 rating)
 
 ---
-
-*Generated by Rust Belt Lead Expansion Trigger - Execution #4*
+*Generated by Rust Belt Lead Expansion trigger - Weekly automation*
