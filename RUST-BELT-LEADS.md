@@ -1,53 +1,50 @@
-# Rust Belt Lead Expansion - Weekly Leads
+# Rust Belt Lead Expansion
+**Last Updated:** 2026-04-06 | **Execution #6** | **20 New Leads**
 
-**Updated:** 2026-03-30  
-**Cities:** Cleveland, Columbus, Cincinnati, Detroit, Buffalo  
-**Criteria:** No website, few reviews (<10), outdated online presence
-
-## Top 20 Scored Leads
-
-| # | Business Name | City | Trade | Why They're a Fit | Estimated Tier |
-|---|---------------|------|-------|-------------------|----------------|
-| 1 | CLE Plumbing and Maintenance | Cleveland, OH | Plumbing | No website found, family-owned, relies on word-of-mouth | Starter |
-| 2 | Lake Erie Heating & Cooling | Cleveland, OH | HVAC | No website, BBB accredited but minimal digital presence | Starter |
-| 3 | All Engineered HVAC | Cleveland Heights, OH | HVAC | Very limited web presence (24 visits/month), only 5 employees | Starter |
-| 4 | HEAirCon, LLC | Cleveland, OH | HVAC | Weak LinkedIn (7 followers), minimal online visibility | Starter |
-| 5 | Plunger Plumber LLC | Cleveland, OH | Plumbing | Newer business (founded 2020), limited web presence | Starter |
-| 6 | Dennie's Heating & Cooling | Detroit, MI | HVAC | No website, no reviews listed, full HVAC services offered | Starter |
-| 7 | Danny's Domestic Refrigeration | Detroit, MI | HVAC | No website, no reviews, established address since 1980s | Starter |
-| 8 | PS Plumbing Services | Detroit, MI | Plumbing | No website, no reviews, 24/7 service advertised | Starter |
-| 9 | Superior Heating & Cooling | Buffalo, NY | HVAC | Website listed as N/A, only 3 Google reviews | Starter |
-| 10 | Signature Heating & Cooling | Buffalo, NY | HVAC | Website listed as N/A, only 1 Google review | Starter |
-| 11 | 1ST SECTION PLUMBING | Columbus, OH | Plumbing | Listed in city directory, no digital presence found | Starter |
-| 12 | 4 SEASONS AIR LLC | Centerburg, OH (Columbus area) | HVAC | Licensed contractor, minimal online presence | Starter |
-| 13 | 3 BOYS MAINTENANCE INC | Columbus, OH | General | Family business, directory listing only | Starter |
-| 14 | A BUCKEYE ROOTER SERVICE | Columbus, OH | Plumbing | Directory listing, no website found | Starter |
-| 15 | Northeast Ohio HVAC LLC | Cleveland, OH | HVAC | Minimal online presence despite having website | Growth |
-| 16 | Cfc General Contractors | Cleveland, OH | General | LinkedIn only, no website | Growth |
-| 17 | Hometown Construction | Cincinnati, OH | General | Listed in directory, weak online presence | Starter |
-| 18 | 7 Hills Construction | Cincinnati, OH | General | Directory listing, no prominent website | Starter |
-| 19 | A&R Plumbing | Cincinnati, OH | Plumbing | Directory listing, minimal digital footprint | Starter |
-| 20 | Advanced Heating & Cooling | Cincinnati, OH | HVAC | Directory listing only, weak web presence | Starter |
-
-## Market Insights
-
-**Columbus Market Data:**
-- Average Google Business Profile score: 57/100 (only 6.9% well-optimized)
-- Home service contractors average only 25 reviews per profile
-- 93% of consumers read reviews before hiring
-- 75% contact only the top 3 Google Maps results
-
-**Lead Quality Notes:**
-- **Starter Tier:** No website, <5 reviews, family-owned or 1-5 employees
-- **Growth Tier:** Basic website but low traffic (<100 visits/month), outdated content, <20 reviews
-- **DFY Tier:** Would require full digital transformation (not represented in this batch)
-
-## Next Actions
-
-1. Prioritize outreach to Detroit HVAC leads (no reviews = untapped)
-2. Columbus leads from city directory = verified licensed contractors
-3. Buffalo HVAC companies show "Website: N/A" = immediate opportunity
-4. Consider skip-list: Eddie Jones Plumbing (1.0 rating), RABY BUILDERS (2.3 rating)
+| # | Business Name | City | Trade | Why They're a Fit | Est. Tier |
+|---|---|---|---|---|---|
+| 1 | Thomas Mechanical | Cleveland, OH | HVAC | Unclaimed Yelp listing, zero reviews, no website found | DFY |
+| 2 | Lake Erie Heating & Cooling | Cleveland, OH | HVAC | Unclaimed Yelp, only 1 review, no visible website | DFY |
+| 3 | Robertson Rebuilders Heating & Cooling | Cleveland, OH | HVAC | Only 2 reviews (3.0 stars), minimal directory presence | Growth |
+| 4 | K C Heating & Cooling | Cleveland, OH | HVAC | Only 4 reviews (3.8 stars), no strong web presence | Growth |
+| 5 | Mike Baumann Plumbing Inc. | Columbus, OH | Plumbing | No website, email-only contact via permit record, phone-only presence | DFY |
+| 6 | Columbus Residential Plumber | Columbus, OH | Plumbing | No visible website, directory listing only | DFY |
+| 7 | 1st Section Plumbing | Columbus, OH | Plumbing | Licensed, no website found in any search results | DFY |
+| 8 | Bartholomew Plumbing & Heating Co. | Columbus, OH | Plumbing | 3.2 stars / 19 reviews, limited digital footprint, old-school operator | Growth |
+| 9 | Herman's Lawn Care and Landscaping | Cincinnati, OH | Lawn Care | 5 years old, BBB not accredited, no website, limited presence | Starter |
+| 10 | BLB Lawncare | Cincinnati, OH | Lawn Care | 21 years in business, no website, BBB profile only | Growth |
+| 11 | Pro-Lawn & Landscape LLC | Cincinnati, OH | Lawn Care | 26 years in business, no website, BBB profile only | Growth |
+| 12 | Cincy Heating & Cooling | Cincinnati, OH | HVAC | Phone-only listing, no website found, directory entry only | DFY |
+| 13 | National Heating & Air Conditioning | Cincinnati, OH | HVAC | No website listed, phone-only at 1999 Central Ave | DFY |
+| 14 | Dews Plumbing Co. | Cincinnati, OH | Plumbing | Phone-only YellowPages listing, no website | DFY |
+| 15 | Hoover Electric | Detroit, MI | Electrical | No website per SmartScrapers dataset, Detroit-based | DFY |
+| 16 | James Electric | Detroit, MI | Electrical | No website confirmed, Detroit-based, phone-only presence | DFY |
+| 17 | MSL Mechanical Contractors | Detroit, MI | Plumbing/HVAC | LinkedIn only, 3 employees, founded 2004, no real web presence | Starter |
+| 18 | Northern Heating, Cooling & Refrigeration | Buffalo, NY | HVAC | 1.0 stars / 1 review, no website, non-responsive to warranty requests | DFY |
+| 19 | K & K Heating and Cooling of Buffalo | Buffalo, NY | HVAC | 3 reviews, electrical work flagged as fire hazard, minimal presence | Growth |
+| 20 | Captain's Lawn Service LLC | Buffalo, NY | Lawn Care | BBB F rating, 5 complaints, no website, failure to respond | DFY |
 
 ---
-*Generated by Rust Belt Lead Expansion trigger - Weekly automation*
+
+## Tier Definitions
+- **DFY (Done For You):** Best fit — no website, zero/minimal reviews, phone-only presence. High urgency prospect.
+- **Growth:** Has some presence but weak — few reviews, outdated info, poor ratings. Mid-tier opportunity.
+- **Starter:** New or very small operation, limited digital footprint. Lower priority but worth nurturing.
+
+## City Breakdown
+| City | Leads |
+|---|---|
+| Cleveland, OH | 4 |
+| Columbus, OH | 4 |
+| Cincinnati, OH | 6 |
+| Detroit, MI | 3 |
+| Buffalo, NY | 3 |
+
+## Trade Breakdown
+| Trade | Leads |
+|---|---|
+| HVAC | 9 |
+| Plumbing | 7 |
+| Lawn Care | 3 |
+| Electrical | 2 |
+| Plumbing/HVAC | 1 |
